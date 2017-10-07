@@ -46,7 +46,7 @@ var h4 = document.getElementsByTagName('h4');
 	      	var texts = h4[i].textContent;
 	      		h4[i].textContent=texts.replace('iPhone', 'Android');     	
 	      }
-	      document.getElementsByTagName('ul')[9].classList.add('device');
+	      
 
 
 //6
